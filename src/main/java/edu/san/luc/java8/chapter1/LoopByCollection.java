@@ -1,4 +1,4 @@
-package edu.san.luc.java8;
+package edu.san.luc.java8.chapter1;
 
 import java.util.ArrayList;
 import java.util.Collection;

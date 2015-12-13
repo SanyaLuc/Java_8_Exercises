@@ -1,4 +1,4 @@
-package edu.san.luc.java8.hierarchy;
+package edu.san.luc.java8.chapter1.hierarchy;
 
 /**
  * Created by sanya on 02.10.15.

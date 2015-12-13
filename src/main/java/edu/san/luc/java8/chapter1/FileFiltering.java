@@ -1,4 +1,4 @@
-package edu.san.luc.java8;
+package edu.san.luc.java8.chapter1;
 
 import java.io.File;
 import java.net.URISyntaxException;
